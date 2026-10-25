@@ -13,7 +13,7 @@
 
 The World Bank's renewable share indicator considers traditional biomass equal to modern renewables like solar and wind. In poorer countries, a high renewable share could be a marker of energy poverty, not clean energy progress. As countries therefore develop, households move from biomass based energy to grid electricity, causing renewable share to fall while access improves.
 
-![Renewable share vs electricity access gap by income group, 2021](figures/renewables_vs_access_gap.png)
+![Renewable share vs electricity access gap by income group, 2021](renewables_vs_access_gap.png)
 
 ## What this means for policy
 
